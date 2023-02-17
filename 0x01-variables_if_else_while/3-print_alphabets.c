@@ -5,16 +5,16 @@
  */
 int main(void)
 {
-	char lAlphabets, uAlphabets;
+	char l, u;
 
-	for (lAlphabets = 'a'; lAlphabets <= 'z'; lAlphabets++)
+	for (l = 'a'; l <= 'z'; l++)
 	{
-		putchar(lAlphabets);
+		putchar(l);
 	}
 
-	for (uAlphabets = 'A'; uAlphabets <= 'Z'; uAlphabets++)
+	for (u = 'A'; u <= 'Z'; u++)
 	{
-		putchar(uAlphabets);
+		putchar(u);
 	}
 
 	putchar('\n');
