@@ -5,16 +5,16 @@
  */
 int main(void)
 {
-	char lowercaseAlphabets, uppercaseAlphabets;
+	char lAlphabets, uAlphabets;
 
-	for (lowercaseAlphabets = 'a'; lowercaseAlphabets <= 'z'; lowercaseAlphabets++)
+	for (lAlphabets = 'a'; lAlphabets <= 'z'; lAlphabets++)
 	{
-		putchar(lowercaseAlphabets);
+		putchar(lAlphabets);
 	}
 
-	for (uppercaseAlphabets = 'A'; uppercaseAlphabets <= 'Z'; uppercaseAlphabets++)
+	for (uAlphabets = 'A'; uAlphabets <= 'Z'; uAlphabets++)
 	{
-		putchar(uppercaseAlphabets);
+		putchar(uAlphabets);
 	}
 
 	putchar('\n');
