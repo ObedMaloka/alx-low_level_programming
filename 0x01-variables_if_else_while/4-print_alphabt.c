@@ -1,5 +1,6 @@
 #include <stdio.h>
-/** main - Entry point
+/**
+ * main - Entry point
  * Description: Print alphabets in lowercase, except q & e
  * Return: Always 0 (Success)
  */
