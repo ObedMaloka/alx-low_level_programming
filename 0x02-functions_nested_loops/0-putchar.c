@@ -1,13 +1,8 @@
-/**
- * Below is main.h header file that has
- * a prototype called in the main function
- */
-
 #include "main.h"
 
 /**
- * main - Prints "_putchar" using the _putchar function it's body
- * Return: Returns (0) after execution
+ * main - Prints _putchar using the _putchar function it's body
+ * Return: Return (0) after execution
  */
 
 int main(void)
