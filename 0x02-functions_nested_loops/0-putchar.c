@@ -1,6 +1,6 @@
 /**
  * Below is main.h header file that has
- * a prototype calledd in the main function
+ * a prototype called in the main function
  */
 
 #include "main.h"
