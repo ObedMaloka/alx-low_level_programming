@@ -1,8 +1,3 @@
-/**
- * Below is main.h header file that has
- * a prototype called in the print_alphabet function
- */
-
 #include "main.h"
 
 /**
