@@ -2,9 +2,13 @@
 
 /**
  * _abs - Computes the absolute value of an integer
+ * @a: Parameter for absolute value
  * Return: Returns result of computation
  */
 
-int _abs(int n){
-   return n*((2*n+1)%2);
+int _abs(int a)
+{
+	if (a < 0)
+		a = a * (-1);
+	return (a);
 }
